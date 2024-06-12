@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...hacker
 - 📫 How to reach me ...by coding
-- 😄 Pronouns: ...as you like to
+- 😄 Pronouns: ...he 
 - ⚡ Fun fact: ...nothing
 
 <!---
